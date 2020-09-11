@@ -28,4 +28,4 @@ To do that:
 * Press the "pull requests" tab near the top of the screen, and then press the green "new pull request" button. Add a message in the box, and type "create pull request". This will send a request to me to incorporate your changes into the git repo.
 
 #Adding a hyperlink as requested by the Week 2 Resources section of class
-[Google] (https://www.google.com)
+[Google](https://www.google.com)
